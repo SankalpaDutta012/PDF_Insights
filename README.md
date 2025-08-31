@@ -1,6 +1,6 @@
-# PDF Analyzer
+# PDF Insights
 
-PDF Analyzer is an intelligent document management system that revolutionizes how you interact with your personal PDF library. Instead of treating documents as isolated files, our application creates connections between related content across your entire collection.
+PDF Insights is an intelligent document management system that revolutionizes how you interact with your personal PDF library. Instead of treating documents as isolated files, our application creates connections between related content across your entire collection.
 
 ## What We Built
 
@@ -90,8 +90,8 @@ Ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hrita0910/PDF_Analyzer.git
-cd PDF_Analyzer
+git clone https://github.com/Hrita0910/PDF_Insights.git
+cd PDF_Insights
 ```
 
 #### 2. Configure Environment Variables
@@ -206,7 +206,7 @@ node server.js
 
 ### Project Structure
 ```
-PDF_Analyzer/
+PDF_Insights/
 ├── Frontend/           # React application
 ├── Backend/           # Python FastAPI service
 ├── Features/          # Node.js AI/TTS service
