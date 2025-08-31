@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+pandas
+langdetect
+nltk
+sentence-transformers
+torch
+transformers
+python-multipart
+pydantic
+PyMuPDF
+Werkzeug
+numpy

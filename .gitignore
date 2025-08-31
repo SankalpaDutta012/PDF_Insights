@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+.cache/
+
+# Environment files - VERY IMPORTANT
+# This prevents your API keys from being uploaded
+.env
+*.env
+.env.*
+
+# Build output directories
+dist/
+build/
+
+# IDE and OS files
+.vscode/
+.ide
